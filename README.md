@@ -1,5 +1,5 @@
 # Angelo Gustilo
-Full-Stack Cloud & AI Engineer
+Full-Stack AI Systems Engineer
 
 **Core Stack:** Google Cloud Platform (Compute Engine), Kubernetes (k3s), Docker, FastAPI, React, Gemini 2.5 Flash, MySQL
 
