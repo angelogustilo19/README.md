@@ -77,11 +77,11 @@ The system was rebuilt end-to-end to support authenticated access, persistent st
 **AI Solutions — Customer Echoes**  
 *May 2025 – Present*
 
-- Designed AI-assisted sentiment analysis workflows to process unstructured customer feedback from reviews, surveys, and social channels.
-- Translated AI-derived insights into churn risk assessments, competitive benchmarking, and executive-facing CX strategy briefs.
-- Collaborated cross-functionally to align AI-generated signals with customer journey optimization and retention initiatives.
+- Engineered a PowerBI Outreach Dashboard to visualize lead status and city-level density, identifying high-potential geographic regions for future sales campaigns.
+- Developed an Iterative Lead Management System to track the outreach lifecycle for 41 prospects, managing status, contact frequency, and regional feedback trend.
+- Architected a Simplified Outreach Framework that translated complex AI specifications into benefit-driven language to prioritize business outcomes like churn reduction and ad efficiency.
 
-**Tools:** ChatGPT, Perplexity AI, Microsoft Excel
+**Tools:** PowerBI, Microsoft Excel, ChatGPT, Perplexity AI.
 
 ---
 
@@ -96,4 +96,4 @@ The system was rebuilt end-to-end to support authenticated access, persistent st
 ---
 
 ## Background
-Master’s student in Information Systems Management with a foundation in business administration and applied cloud-native AI systems.
+Information Systems Specialist with a strong foundation in business administration and the design of applied cloud-native AI systems. Experienced in bridging the gap between technical infrastructure and business strategy.
