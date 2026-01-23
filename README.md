@@ -9,6 +9,8 @@
   ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝ ╚═════╝
 ```
 
+## Angelo Gustilo
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&weight=700&size=28&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&random=false&width=600&lines=FULL-STACK+AI+SYSTEMS+ENGINEER;BUILDING+CLOUD-NATIVE+INTELLIGENCE;TURNING+IDEAS+INTO+DEPLOYED+REALITY)](https://git.io/typing-svg)
 
 **I don't just build AI systems. I ship them.**
@@ -67,6 +69,8 @@ A hybrid AI system that knows the difference between "explain compound interest"
 <img src="assets/momentum-login.png" alt="Momentum AI Login" width="500"/>
 <br><br>
 <img src="assets/momentum-ai.png" alt="Momentum AI Chat" width="700"/>
+<br><br>
+<img src="assets/rag-platform.png" alt="Momentum AI Conversation" width="700"/>
 </div>
 
 <details>
@@ -103,9 +107,6 @@ A hybrid AI system that knows the difference between "explain compound interest"
 
 Re-architected from prototype to fully containerized platform handling concurrent multi-user workloads.
 
-<div align="center">
-<img src="assets/rag-platform.png" alt="RAG Platform Interface" width="700"/>
-</div>
 
 <details>
 <summary><b>SEE WHAT'S UNDER THE HOOD</b></summary>
