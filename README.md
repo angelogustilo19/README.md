@@ -2,7 +2,7 @@
 
 # Hey, I'm Angelo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+AI+Systems+Engineer;Building+Cloud-Native+Intelligence;Turning+Ideas+Into+Deployed+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DC143C&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+AI+Systems+Engineer;Building+Cloud-Native+Intelligence;Turning+Ideas+Into+Deployed+Reality)](https://git.io/typing-svg)
 
 *I don't just build AI systems. I ship them.*
 
@@ -144,9 +144,9 @@ Deep learning regression model for sales forecasting, built with TensorFlow and 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelogustilo19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelogustilo19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelogustilo19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelogustilo19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF)
 
 </div>
 
