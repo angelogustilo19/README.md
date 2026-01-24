@@ -57,9 +57,9 @@ A hybrid AI system built for cloud computing guidance and banking expertise, han
 <div align="center">
 <img src="assets/momentum-login.png" alt="Momentum AI Login" width="500"/>
 <br><br>
-<img src="assets/momentum-ai.png" alt="Momentum AI Chat" width="700"/>
-<br><br>
-<img src="assets/rag-platform.png" alt="Momentum AI Conversation" width="700"/>
+
+![Momentum AI Demo](assets/chatbot-demo.mp4)
+
 </div>
 
 <details>
@@ -96,6 +96,9 @@ A hybrid AI system built for cloud computing guidance and banking expertise, han
 
 Re-architected from prototype to fully containerized platform handling concurrent multi-user workloads.
 
+<div align="center">
+<img src="assets/k8s-deployment.png" alt="Kubernetes Deployment on GCP" width="700"/>
+</div>
 
 <details>
 <summary><b>SEE WHAT'S UNDER THE HOOD</b></summary>
