@@ -6,8 +6,6 @@
 
 **I don't just build AI systems. I ship them.**
 
-<img src="https://raw.githubusercontent.com/angelogustilo19/angelogustilo19/output/github-snake-dark.svg" alt="Snake animation" />
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -50,11 +48,11 @@ My sweet spot? Taking an idea from "wouldn't it be cool if..." to a containerize
 
 ## WHAT I'VE BUILT
 
-### MOMENTUM AI — Intelligent Financial Assistant
+### MOMENTUM AI — Cloud Computing & Banking Expert
 
-> *When a calculator meets a conversational AI, and both actually work in production.*
+> *Enterprise-grade AI that speaks cloud architecture and banking — deployed in production.*
 
-A hybrid AI system that knows the difference between "explain compound interest" and "calculate my debt payoff schedule" — and handles both flawlessly.
+A hybrid AI system built for cloud computing guidance and banking expertise, handling everything from GCP infrastructure questions to financial analysis with precision.
 
 <div align="center">
 <img src="assets/momentum-login.png" alt="Momentum AI Login" width="500"/>
@@ -69,9 +67,9 @@ A hybrid AI system that knows the difference between "explain compound interest"
 
 <br>
 
-**THE PROBLEM:** Users need both precise financial calculations AND conversational AI — but most systems do one or the other, poorly.
+**THE PROBLEM:** Users need expert guidance on cloud architecture AND banking concepts — but most AI systems lack domain-specific depth.
 
-**THE SOLUTION:** Intent detection that routes queries to either a specialized financial engine (debt payoff, amortization, loan math) or an LLM with RAG enhancement.
+**THE SOLUTION:** Intent detection that routes queries to specialized engines for cloud computing (GCP, Kubernetes, infrastructure) or banking expertise (financial analysis, loan calculations) with RAG enhancement.
 
 **KEY ENGINEERING:**
 - Multi-tier LLM fallback: Gemini 2.5 Flash → GPT-3.5 → Ollama (never fails silently)
