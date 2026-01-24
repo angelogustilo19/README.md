@@ -14,7 +14,7 @@
 
 I architect and deploy production AI systems on cloud infrastructure. Not demos. Not notebooks. **Real systems** with auth, persistence, orchestration, and users hitting them concurrently.
 
-My sweet spot? Taking an idea from "wouldn't it be cool if..." to a containerized, Kubernetes-orchestrated reality running on GCP — often at zero infrastructure cost.
+My sweet spot? Taking an idea from "wouldn't it be cool if..." to a containerized, Kubernetes-orchestrated reality running on GCP - often at zero infrastructure cost.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -48,9 +48,9 @@ My sweet spot? Taking an idea from "wouldn't it be cool if..." to a containerize
 
 ## WHAT I'VE BUILT
 
-### MOMENTUM AI — Cloud Computing & Banking Expert
+### MOMENTUM AI - Cloud Computing & Banking Expert
 
-> *Enterprise-grade AI that speaks cloud architecture and banking — deployed in production.*
+> *Enterprise-grade AI that speaks cloud architecture and banking - deployed in production.*
 
 A hybrid AI system built for cloud computing guidance and banking expertise, handling everything from GCP infrastructure questions to financial analysis with precision.
 
@@ -67,7 +67,7 @@ A hybrid AI system built for cloud computing guidance and banking expertise, han
 
 <br>
 
-**THE PROBLEM:** Users need expert guidance on cloud architecture AND banking concepts — but most AI systems lack domain-specific depth.
+**THE PROBLEM:** Users need expert guidance on cloud architecture AND banking concepts - but most AI systems lack domain-specific depth.
 
 **THE SOLUTION:** Intent detection that routes queries to specialized engines for cloud computing (GCP, Kubernetes, infrastructure) or banking expertise (financial analysis, loan calculations) with RAG enhancement.
 
@@ -92,7 +92,7 @@ A hybrid AI system built for cloud computing guidance and banking expertise, han
 
 ### CLOUD-NATIVE RAG PLATFORM
 
-> *Production-grade retrieval-augmented generation. Not a Jupyter notebook — an actual deployed system.*
+> *Production-grade retrieval-augmented generation. Not a Jupyter notebook - an actual deployed system.*
 
 Re-architected from prototype to fully containerized platform handling concurrent multi-user workloads.
 
@@ -112,7 +112,7 @@ Re-architected from prototype to fully containerized platform handling concurren
 - Gemini 2.5 Flash integration with structured reasoning pipelines
 - System prompts constrained for domain-specific responses (cloud architecture, finance)
 - React frontend deployed as K8s-managed service
-- MySQL with persistent volumes — data survives pod restarts
+- MySQL with persistent volumes - data survives pod restarts
 - Traefik ingress exposing the whole thing securely to the internet
 
 **BATTLE SCARS (PROBLEMS I SOLVED):**
@@ -174,8 +174,8 @@ End-to-end ML pipeline combining TensorFlow regression with Apache Kafka for liv
 
 ## CURRENTLY
 
-- **Open to work** — yes, this is my way of saying *please hire me*
-- Mass applying to jobs like my Kafka producer pushes messages — high throughput, hoping for at least one successful delivery
+- **Open to work** - yes, this is my way of saying *please hire me*
+- Mass applying to jobs like my Kafka producer pushes messages - high throughput, hoping for at least one successful delivery
 - Still obsessing over the gap between "it works on my machine" and "it works in production"
 - Available immediately. Will deploy AI systems for coffee. Or money. Preferably both.
 
@@ -183,7 +183,7 @@ End-to-end ML pipeline combining TensorFlow regression with Apache Kafka for liv
 
 ## LET'S CONNECT
 
-I'm always down to talk about cloud architecture, AI systems that actually ship, why Kubernetes is simultaneously the best and worst thing ever — or **job opportunities** (seriously, my inbox is ready).
+I'm always down to talk about cloud architecture, AI systems that actually ship, why Kubernetes is simultaneously the best and worst thing ever - or **job opportunities** (seriously, my inbox is ready).
 
 <div align="center">
 
