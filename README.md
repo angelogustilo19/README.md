@@ -16,7 +16,7 @@ I architect and deploy production AI systems on cloud infrastructure. Not demos.
 
 My sweet spot? Taking an idea from "wouldn't it be cool if..." to a containerized, Kubernetes-orchestrated reality running on GCP - often at zero infrastructure cost.
 
-**Turning raw data into actionable business insights that drive real decisions and revenue.**
+Data in. Business insights out. AI that doesn't just predict - it **drives decisions and revenue.**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
