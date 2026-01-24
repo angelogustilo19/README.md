@@ -124,26 +124,40 @@ Re-architected from prototype to fully containerized platform handling concurren
 
 ---
 
-### SALES PREDICTION WITH TENSORFLOW
+### SALES PREDICTION WITH REAL-TIME KAFKA STREAMING
 
-> *When you want to know what's going to sell — and by how much.*
+> *Predict sales. Stream predictions. Monitor in real-time.*
 
-Deep learning regression model for sales forecasting, built with TensorFlow and grounded in solid exploratory data analysis.
+End-to-end ML pipeline combining TensorFlow regression with Apache Kafka for live prediction streaming and monitoring.
+
+<div align="center">
+<img src="assets/sales-prediction-analysis.png" alt="Sales Prediction Analysis" width="700"/>
+<br><br>
+<img src="assets/kafdrop-streaming.png" alt="Kafdrop Real-Time Streaming" width="700"/>
+</div>
 
 <details>
 <summary><b>SEE WHAT'S UNDER THE HOOD</b></summary>
 
 <br>
 
-**THE GOAL:** Predict sales outcomes using historical data and deep learning.
+**THE GOAL:** Predict aggregated sales performance and stream predictions in real-time for live monitoring.
 
-**APPROACH:**
-- Exploratory data analysis to understand patterns, distributions, and feature relationships
-- Feature engineering informed by EDA insights
-- TensorFlow regression model for sales prediction
-- Model evaluation and performance analysis
+**DATA PROCESSING:**
+- EDA on 500 customer transaction records revealing seasonality patterns, marketing ROI, and churn demographics
+- Missing value imputation and outlier removal using IQR method
+- Feature engineering informed by correlation analysis
 
-**STACK:** Python | TensorFlow | Pandas | Jupyter Notebook
+**ML PIPELINE:**
+- Linear regression baseline for interpretability
+- TensorFlow neural network (2 hidden layers) capturing non-linear relationships between marketing spend, seasonality, and sales
+
+**REAL-TIME STREAMING:**
+- Kafka message broker streams 81 prediction records to `sales_predictions` topic
+- Kafdrop web UI visualizes predictions with error analysis
+- Schema includes prediction index, predicted/actual sales, and error metrics
+
+**STACK:** TensorFlow | Pandas | Apache Kafka | Kafdrop | Docker | Docker Compose
 
 </details>
 
@@ -157,15 +171,16 @@ Deep learning regression model for sales forecasting, built with TensorFlow and 
 
 ## CURRENTLY
 
-- Engineering AI solutions at **Customer Echoes** — building dashboards, lead management systems, and translating AI specs into business outcomes
-- Obsessing over the gap between "it works on my machine" and "it works in production"
-- Exploring what happens when you throw real constraints at AI systems
+- **Open to work** — yes, this is my way of saying *please hire me*
+- Mass applying to jobs like my Kafka producer pushes messages — high throughput, hoping for at least one successful delivery
+- Still obsessing over the gap between "it works on my machine" and "it works in production"
+- Available immediately. Will deploy AI systems for coffee. Or money. Preferably both.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## LET'S CONNECT
 
-I'm always down to talk about cloud architecture, AI systems that actually ship, or why Kubernetes is simultaneously the best and worst thing ever.
+I'm always down to talk about cloud architecture, AI systems that actually ship, why Kubernetes is simultaneously the best and worst thing ever — or **job opportunities** (seriously, my inbox is ready).
 
 <div align="center">
 
