@@ -1,23 +1,8 @@
-<p align="center">
-<pre align="center">
-   █████╗ ███╗   ██╗ ██████╗ ███████╗██╗      ██████╗
-  ██╔══██╗████╗  ██║██╔════╝ ██╔════╝██║     ██╔═══██╗
-  ███████║██╔██╗ ██║██║  ███╗█████╗  ██║     ██║   ██║
-  ██╔══██║██║╚██╗██║██║   ██║██╔══╝  ██║     ██║   ██║
-  ██║  ██║██║ ╚████║╚██████╔╝███████╗███████╗╚██████╔╝
-  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝ ╚═════╝
- ██████╗ ██╗   ██╗███████╗████████╗██╗██╗      ██████╗
-██╔════╝ ██║   ██║██╔════╝╚══██╔══╝██║██║     ██╔═══██╗
-██║  ███╗██║   ██║███████╗   ██║   ██║██║     ██║   ██║
-██║   ██║██║   ██║╚════██║   ██║   ██║██║     ██║   ██║
-╚██████╔╝╚██████╔╝███████║   ██║   ██║███████╗╚██████╔╝
- ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝   ╚═╝╚══════╝ ╚═════╝
-</pre>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=2E8B57&height=150&section=header&text=Angelo%20Gustilo&fontSize=40&fontColor=fff&animation=blinking"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&weight=700&size=28&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&random=false&width=600&lines=FULL-STACK+AI+SYSTEMS+ENGINEER;BUILDING+CLOUD-NATIVE+INTELLIGENCE;TURNING+IDEAS+INTO+DEPLOYED+REALITY)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&weight=700&size=28&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&random=false&width=600&lines=FULL-STACK+AI+SYSTEMS+ENGINEER;BUILDING+CLOUD-NATIVE+INTELLIGENCE;TURNING+IDEAS+INTO+DEPLOYED+REALITY)](https://git.io/typing-svg)
 
 **I don't just build AI systems. I ship them.**
 
@@ -101,7 +86,7 @@ A hybrid AI system that knows the difference between "explain compound interest"
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelogustilo19/momentum-ai-portfolio)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelogustilo19/momentum-ai-portfolio)
 
 </div>
 
@@ -166,7 +151,7 @@ Deep learning regression model for sales forecasting, built with TensorFlow and 
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelogustilo19/EDA)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelogustilo19/EDA)
 
 </div>
 
@@ -187,7 +172,7 @@ I'm always down to talk about cloud architecture, AI systems that actually ship,
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelogustilo)
-[![Email](https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelogustilo19@gmail.com)
+[![Email](https://img.shields.io/badge/Email-2E8B57?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelogustilo19@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelogustilo19)
 
 </div>
