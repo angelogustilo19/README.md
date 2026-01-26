@@ -172,6 +172,46 @@ End-to-end ML pipeline combining TensorFlow regression with Apache Kafka for liv
 
 </div>
 
+---
+
+### AAPL STOCK ANALYSIS - My First Project
+
+> *Where it all started - predicting Apple stock with ML before I knew what Kubernetes was.*
+
+A comprehensive financial analysis project combining technical indicators, risk metrics, Monte Carlo simulation, and deep learning to analyze and predict Apple stock behavior using five years of historical data.
+
+<details>
+<summary><b>SEE WHAT'S UNDER THE HOOD</b></summary>
+
+<br>
+
+**THE GOAL:** Build a complete stock analysis pipeline - from data collection to ML predictions - learning the fundamentals of data science and machine learning.
+
+**TECHNICAL ANALYSIS:**
+- RSI, MACD, Bollinger Bands, and moving averages for trend identification
+- Rule-based trading signal system combining momentum indicators
+- Risk metrics: Value at Risk (VaR), Sortino Ratio, maximum drawdown
+
+**ML PIPELINE:**
+- Bidirectional LSTM neural network for sequence pattern recognition
+- Random Forest ensemble model as baseline comparison
+- Monte Carlo simulation generating 1,000 probabilistic price scenarios
+
+**WHAT I LEARNED:**
+- Financial data preprocessing and feature engineering
+- The gap between backtesting accuracy and real-world performance
+- Why everyone's first ML project involves stock prediction (and why it's humbling)
+
+**STACK:** Python | TensorFlow/Keras | scikit-learn | pandas | yfinance | matplotlib
+
+</details>
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelogustilo19/aapl-stock-analysis-)
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## CURRENTLY
