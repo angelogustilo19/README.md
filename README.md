@@ -109,7 +109,7 @@ A comprehensive deep learning platform that reframes fraud detection from binary
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelogustilo19/from-3-to-93-percent)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-2E8B57?style=for-the-badge&logo=github&logoColor=white)](./defender)
 
 </div>
 
@@ -162,7 +162,7 @@ A hybrid AI system built for cloud computing guidance and banking expertise, han
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelogustilo19/momentum-ai-portfolio)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-2E8B57?style=for-the-badge&logo=github&logoColor=white)](./momentum-ai)
 
 </div>
 
@@ -262,7 +262,7 @@ End-to-end ML pipeline combining TensorFlow regression with Apache Kafka for liv
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelogustilo19/EDA)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-2E8B57?style=for-the-badge&logo=github&logoColor=white)](./sales-prediction)
 
 </div>
 
@@ -306,7 +306,7 @@ A comprehensive financial analysis project combining technical indicators, risk 
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelogustilo19/aapl-stock-analysis-)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-2E8B57?style=for-the-badge&logo=github&logoColor=white)](./aapl-stock-analysis)
 
 </div>
 
