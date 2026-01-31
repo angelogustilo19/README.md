@@ -50,9 +50,9 @@ The project integrates competencies in business intelligence, systems analysis a
 |--------|-------|
 | Deep Learning Models Trained | 68 |
 | Traditional ML Models | 4 |
-| Analysis Categories | 20 |
+| Analysis Categories | 17 |
 | Transactions Analyzed | 40,000 |
-| Database Tables | 98 |
+| Database Tables | 87 |
 | Dashboard Pages | 9 |
 | Best Model AUC | 0.6036 (GRU) |
 | Multi-Class Detection Rate | 86-100% per fraud type |
@@ -156,7 +156,7 @@ Each fraud type has a **unique signature** that binary classification destroys b
                     |  |            |                        |  |
                     |  |            v                        |  |
                     |  |      MySQL Database                 |  |
-                    |  |    (98 tables, Star Schema)         |  |
+                    |  |    (87 tables, Star Schema)         |  |
                     |  +-------------------------------------+  |
                     +-------------------------------------------+
 ```
@@ -167,7 +167,7 @@ Each fraud type has a **unique signature** that binary classification destroys b
 |-----------|------------|---------|
 | Frontend | Streamlit | 9-page interactive dashboard |
 | Backend | FastAPI + Uvicorn | REST API for predictions |
-| Database | MySQL 8.0 | Star schema with 98 tables |
+| Database | MySQL 8.0 | Star schema with 87 tables |
 | ML Framework | PyTorch | Deep learning training |
 | Orchestration | Kubernetes (k3s) | Container orchestration |
 | Cloud | Google Cloud Platform | Production hosting |
@@ -306,7 +306,7 @@ The dataset has 1:104 class imbalance (0.95% fraud). Solutions implemented:
 
 ## Model Training Results
 
-### 20 Analysis Categories
+### 17 Analysis Categories
 
 | Category | Best Model | AUC | Key Pattern Detected |
 |----------|------------|-----|----------------------|
