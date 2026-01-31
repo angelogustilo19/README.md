@@ -6,7 +6,9 @@
 
 **I don't just build AI systems. I ship them.**
 
-![MS](https://img.shields.io/badge/M.S._Information_Systems_Management-Stanton_University-2E8B57?style=flat-square)
+<img src="https://stanton.edu/wp-content/uploads/SU_logo-website-header-2.png" alt="Stanton University" height="30"/>
+
+![MS](https://img.shields.io/badge/M.S._Information_Systems_Management-2E8B57?style=flat-square)
 
 **SEEKING:** ML Engineer | Data Scientist | Full-Stack AI Developer | Cloud Engineer
 
