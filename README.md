@@ -119,6 +119,7 @@ A comprehensive deep learning platform that reframes fraud detection from binary
 
 > *Enterprise-grade AI that speaks cloud architecture and banking - deployed in production.*
 
+![Featured](https://img.shields.io/badge/FEATURED-FFD700?style=for-the-badge&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-8E75B2?style=for-the-badge&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/FULL_STACK-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
