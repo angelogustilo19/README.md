@@ -118,6 +118,7 @@ A comprehensive deep learning platform that reframes fraud detection from binary
 
 ![RAG](https://img.shields.io/badge/RAG-8E75B2?style=for-the-badge&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/FULL_STACK-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Production](https://img.shields.io/badge/PRODUCTION-2E8B57?style=for-the-badge&logoColor=white)
 
 A hybrid AI system built for cloud computing guidance and banking expertise, handling everything from GCP infrastructure questions to financial analysis with precision.
@@ -266,6 +267,10 @@ End-to-end ML pipeline combining TensorFlow regression with Apache Kafka for liv
 ### AAPL STOCK ANALYSIS - My First Project
 
 > *Where it all started - predicting Apple stock with ML before I knew what Kubernetes was.*
+
+![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Finance](https://img.shields.io/badge/FINANCE-2E8B57?style=for-the-badge&logoColor=white)
 
 A comprehensive financial analysis project combining technical indicators, risk metrics, Monte Carlo simulation, and deep learning to analyze and predict Apple stock behavior using five years of historical data.
 
