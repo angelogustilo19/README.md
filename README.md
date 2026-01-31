@@ -67,8 +67,9 @@ Data in. Business insights out. AI that doesn't just predict - it **drives decis
 > *From 3% to 93% detection rate. That's not a typo - that's a 32x improvement.*
 
 ![Featured](https://img.shields.io/badge/FEATURED-FFD700?style=for-the-badge&logoColor=black)
-![Deep Learning](https://img.shields.io/badge/DEEP_LEARNING-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
-![Production](https://img.shields.io/badge/PRODUCTION-2E8B57?style=for-the-badge&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 A comprehensive deep learning platform that reframes fraud detection from binary classification to multi-class analysis - because fraudsters mimic normal transactions, but each fraud type leaves a unique signature.
 
@@ -106,7 +107,7 @@ A comprehensive deep learning platform that reframes fraud detection from binary
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelogustilo19/from-3-to-93-percent)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelogustilo19/Defender-)
 
 </div>
 
