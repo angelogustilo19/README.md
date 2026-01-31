@@ -64,7 +64,7 @@ Data in. Business insights out. AI that doesn't just predict - it **drives decis
 
 ### DEFENDER - AI-Powered Banking Fraud Prevention
 
-> *From 3% to 93% detection rate. That's not a typo - that's a 32x improvement.*
+> *From 2.9% to 86-100% detection rate. That's a 32x improvement.*
 
 ![Featured](https://img.shields.io/badge/FEATURED-FFD700?style=for-the-badge&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -73,7 +73,8 @@ Data in. Business insights out. AI that doesn't just predict - it **drives decis
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Production](https://img.shields.io/badge/PRODUCTION-2E8B57?style=for-the-badge&logoColor=white)
 
-A comprehensive deep learning platform that reframes fraud detection from binary classification to multi-class analysis - because fraudsters mimic normal transactions, but each fraud type leaves a unique signature.
+A comprehensive deep learning platform that reframes fraud detection from binary classification to multi-class analysis - because
+fraudsters mimic normal transactions, but each fraud type leaves a unique signature.
 
 <details>
 <summary><b>SEE WHAT'S UNDER THE HOOD</b></summary>
@@ -82,28 +83,29 @@ A comprehensive deep learning platform that reframes fraud detection from binary
 
 **THE PROBLEM:** Traditional binary fraud detection hit a ceiling at 2.9%. Fraudsters are too good at looking normal.
 
-**THE BREAKTHROUGH:** Stop asking "is this fraud?" Start asking "what TYPE of fraud is this?" Multi-class classification exposes patterns that binary approaches miss completely.
+**THE BREAKTHROUGH:** Stop asking "is this fraud?" Start asking "what TYPE of fraud is this?" Multi-class classification exposes patterns
+that binary approaches miss completely.
 
 **SCALE:**
 - 40,000 banking transactions across 4 channels (ATM, POS, Digital, Branch)
 - 11 distinct fraud patterns identified and modeled
-- 68 deep learning models trained across 20 analysis categories
-- Star schema data warehouse with 98 tables
+- 68 deep learning models trained across 17 analysis categories
+- Star schema data warehouse with 87 tables
 
 **KEY ENGINEERING:**
-- BiLSTM and GRU architectures for sequential pattern detection
-- SHAP explainability for regulatory compliance and decision transparency
-- Real-time risk scoring API with cost-benefit threshold optimization
+- LSTM, GRU, Transformer, and CNN-LSTM architectures for sequential pattern detection
+- Ensemble prediction combining XGBoost, Neural Network, and Isolation Forest
+- Real-time risk scoring API with cost-benefit threshold optimization (0.30 threshold, 0.4% FPR)
 - 9-page interactive Streamlit dashboard with Plotly visualizations
 - Full production deployment on GCP Kubernetes - under $25/month
 
 **RESULTS:**
 - Binary classification baseline: 2.9% detection
-- Multi-class BiLSTM: 93.3% average detection rate
+- Multi-class classification: 86-100% detection per fraud type
 - Best GRU model: 0.6036 AUC for cost-benefit optimization
-- 86-100% detection per individual fraud type
+- 32x improvement in fraud detection
 
-**STACK:** PyTorch | FastAPI | Streamlit | MySQL | Kubernetes | GCP | SHAP | Plotly
+**STACK:** PyTorch | FastAPI | Streamlit | MySQL | Kubernetes | GCP | Plotly
 
 </details>
 
