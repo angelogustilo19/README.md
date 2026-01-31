@@ -71,6 +71,7 @@ Data in. Business insights out. AI that doesn't just predict - it **drives decis
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Production](https://img.shields.io/badge/PRODUCTION-2E8B57?style=for-the-badge&logoColor=white)
 
 A comprehensive deep learning platform that reframes fraud detection from binary classification to multi-class analysis - because fraudsters mimic normal transactions, but each fraud type leaves a unique signature.
 
