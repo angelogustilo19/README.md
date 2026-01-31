@@ -6,6 +6,10 @@
 
 **I don't just build AI systems. I ship them.**
 
+![MS](https://img.shields.io/badge/M.S._Information_Systems_Management-Stanton_University-2E8B57?style=flat-square)
+
+**SEEKING:** ML Engineer | Data Scientist | Full-Stack AI Developer | Cloud Engineer
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -112,7 +116,14 @@ A comprehensive deep learning platform that reframes fraud detection from binary
 
 > *Enterprise-grade AI that speaks cloud architecture and banking - deployed in production.*
 
+![RAG](https://img.shields.io/badge/RAG-8E75B2?style=for-the-badge&logoColor=white)
+![Full Stack](https://img.shields.io/badge/FULL_STACK-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Production](https://img.shields.io/badge/PRODUCTION-2E8B57?style=for-the-badge&logoColor=white)
+
 A hybrid AI system built for cloud computing guidance and banking expertise, handling everything from GCP infrastructure questions to financial analysis with precision.
+
+<details>
+<summary><b>SEE IT IN ACTION</b></summary>
 
 <div align="center">
 <img src="assets/momentum-login.png" alt="Momentum AI Login" width="500"/>
@@ -121,6 +132,8 @@ A hybrid AI system built for cloud computing guidance and banking expertise, han
 ![Momentum AI Demo](assets/chatbot-demo.gif)
 
 </div>
+
+</details>
 
 <details>
 <summary><b>SEE WHAT'S UNDER THE HOOD</b></summary>
@@ -191,13 +204,22 @@ Re-architected from prototype to fully containerized platform handling concurren
 
 > *Predict sales. Stream predictions. Monitor in real-time.*
 
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Streaming](https://img.shields.io/badge/REAL_TIME-4285F4?style=for-the-badge&logoColor=white)
+
 End-to-end ML pipeline combining TensorFlow regression with Apache Kafka for live prediction streaming and monitoring.
+
+<details>
+<summary><b>SEE IT IN ACTION</b></summary>
 
 <div align="center">
 <img src="assets/sales-prediction-analysis.png" alt="Sales Prediction Analysis" width="700"/>
 <br><br>
 <img src="assets/kafdrop-streaming.png" alt="Kafdrop Real-Time Streaming" width="700"/>
 </div>
+
+</details>
 
 <details>
 <summary><b>SEE WHAT'S UNDER THE HOOD</b></summary>
