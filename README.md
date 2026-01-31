@@ -27,6 +27,8 @@ Data in. Business insights out. AI that doesn't just predict - it **drives decis
 **CLOUD & INFRA**
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -49,6 +51,62 @@ Data in. Business insights out. AI that doesn't just predict - it **drives decis
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## WHAT I'VE BUILT
+
+<div align="center">
+
+### FEATURED PROJECT
+
+</div>
+
+### DEFENDER - AI-Powered Banking Fraud Prevention
+
+> *From 3% to 93% detection rate. That's not a typo - that's a 32x improvement.*
+
+![Featured](https://img.shields.io/badge/FEATURED-FFD700?style=for-the-badge&logoColor=black)
+![Deep Learning](https://img.shields.io/badge/DEEP_LEARNING-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![Production](https://img.shields.io/badge/PRODUCTION-2E8B57?style=for-the-badge&logoColor=white)
+
+A comprehensive deep learning platform that reframes fraud detection from binary classification to multi-class analysis - because fraudsters mimic normal transactions, but each fraud type leaves a unique signature.
+
+<details>
+<summary><b>SEE WHAT'S UNDER THE HOOD</b></summary>
+
+<br>
+
+**THE PROBLEM:** Traditional binary fraud detection hit a ceiling at 2.9%. Fraudsters are too good at looking normal.
+
+**THE BREAKTHROUGH:** Stop asking "is this fraud?" Start asking "what TYPE of fraud is this?" Multi-class classification exposes patterns that binary approaches miss completely.
+
+**SCALE:**
+- 40,000 banking transactions across 4 channels (ATM, POS, Digital, Branch)
+- 11 distinct fraud patterns identified and modeled
+- 68 deep learning models trained across 20 analysis categories
+- Star schema data warehouse with 98 tables
+
+**KEY ENGINEERING:**
+- BiLSTM and GRU architectures for sequential pattern detection
+- SHAP explainability for regulatory compliance and decision transparency
+- Real-time risk scoring API with cost-benefit threshold optimization
+- 9-page interactive Streamlit dashboard with Plotly visualizations
+- Full production deployment on GCP Kubernetes - under $25/month
+
+**RESULTS:**
+- Binary classification baseline: 2.9% detection
+- Multi-class BiLSTM: 93.3% average detection rate
+- Best GRU model: 0.6036 AUC for cost-benefit optimization
+- 86-100% detection per individual fraud type
+
+**STACK:** PyTorch | FastAPI | Streamlit | MySQL | Kubernetes | GCP | SHAP | Plotly
+
+</details>
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelogustilo19/from-3-to-93-percent)
+
+</div>
+
+---
 
 ### MOMENTUM AI - Cloud Computing & Banking Expert
 
