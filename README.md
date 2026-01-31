@@ -167,11 +167,20 @@ A hybrid AI system built for cloud computing guidance and banking expertise, han
 
 > *Production-grade retrieval-augmented generation. Not a Jupyter notebook - an actual deployed system.*
 
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Production](https://img.shields.io/badge/PRODUCTION-2E8B57?style=for-the-badge&logoColor=white)
+
 Re-architected from prototype to fully containerized platform handling concurrent multi-user workloads.
+
+<details>
+<summary><b>SEE IT IN ACTION</b></summary>
 
 <div align="center">
 <img src="assets/k8s-deployment.png" alt="Kubernetes Deployment on GCP" width="700"/>
 </div>
+
+</details>
 
 <details>
 <summary><b>SEE WHAT'S UNDER THE HOOD</b></summary>
