@@ -107,9 +107,25 @@ fraudsters mimic normal transactions, but each fraud type leaves a unique signat
 <br><br>
 <img src="defender/assets/coordinated-fraud.png" alt="Coordinated Fraud Detection" width="700"/>
 
-**Live on GCP**
-<img src="defender/assets/vm-production-running.png" alt="Production VM Running on GCP" width="700"/>
+</div>
 
+</details>
+
+<details>
+<summary><b>PRODUCTION DEPLOYMENT</b></summary>
+
+<br>
+
+Not localhost. Not a demo. **Actually running on GCP.**
+
+<div align="center">
+<img src="defender/assets/vm-production-running.png" alt="Production VM Running on GCP" width="700"/>
+</div>
+
+VM boots? I get an email with the dashboard URL. Zero manual checking.
+
+<div align="center">
+<img src="defender/assets/vm-startup-notification.png" alt="Automated Startup Notification" width="500"/>
 </div>
 
 </details>
