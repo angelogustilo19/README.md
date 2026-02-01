@@ -77,6 +77,19 @@ A comprehensive deep learning platform that reframes fraud detection from binary
 fraudsters mimic normal transactions, but each fraud type leaves a unique signature.
 
 <details>
+<summary><b>SEE IT IN ACTION</b></summary>
+
+<div align="center">
+<img src="defender/assets/business-impact.png" alt="Business Impact Dashboard" width="700"/>
+<br><br>
+<img src="defender/assets/customer-fraud-types.png" alt="Customer Fraud Types" width="700"/>
+<br><br>
+<img src="defender/assets/vm-production-running.png" alt="Production VM Running on GCP" width="700"/>
+</div>
+
+</details>
+
+<details>
 <summary><b>SEE WHAT'S UNDER THE HOOD</b></summary>
 
 <br>
