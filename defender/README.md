@@ -67,6 +67,12 @@ The project integrates competencies in business intelligence, systems analysis a
 
 <br>
 
+### All 68 Deep Learning Models
+
+<div align="center">
+<img src="assets/68-deep-learning-models.png" alt="All 68 Deep Learning Models" width="700"/>
+</div>
+
 ### Business Impact & Cost-Benefit Analysis
 
 <div align="center">
