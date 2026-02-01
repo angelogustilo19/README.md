@@ -504,17 +504,9 @@ GET  /reviews/pending                - Transactions needing review
 
 Not a demo. Not localhost. Real GCP VM with 6 Docker containers, health checks, and live endpoints.
 
-<div align="center">
-<img src="assets/vm-production-running.png" alt="Production VM Running" width="700"/>
-</div>
-
 ### Automated Startup Notifications
 
 VM boots? I get an email. Dashboard URL included. Zero manual checking.
-
-<div align="center">
-<img src="assets/vm-startup-notification.png" alt="Automated VM Startup Email" width="500"/>
-</div>
 
 ---
 
