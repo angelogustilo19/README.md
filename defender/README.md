@@ -127,7 +127,7 @@ Each fraud type has a **unique signature** that binary classification destroys b
 | MultiChannelFraud | Mixed | ATM + Digital + POS within 30 min | **95.0%** |
 | SuspiciousOverCounter | Branch | Cash > $5,000 at branch | **91.7%** |
 | CredentialTheft | Digital | New device + high-value transfer | **91.2%** |
-| CrossCountryPOS | POS | POS in different country than home | **88.5%** |
+| CrossCountryPOS | POS | POS in different country than home | **88.5%% |
 | HighFrequencyMerchant | POS | Same merchant 3+ times per hour | **88.5%** |
 | IdentityTheft | Branch | New account + immediate large withdrawal | **88.0%** |
 | SimSwap | Digital | Activity within 24h of SIM change | **86.3%** |
@@ -454,6 +454,10 @@ GET  /reviews/pending                - Transactions needing review
 - **Namespace**: defender
 - **Deployments**: dashboard, api, mysql
 - **Services**: dashboard (NodePort:30501), api (ClusterIP:8000), mysql (ClusterIP:3306)
+
+### Access
+
+The VM uses an ephemeral IP that changes on restart. A startup script automatically emails the current IP and dashboard URL on VM boot.
 
 ---
 
