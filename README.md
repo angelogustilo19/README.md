@@ -81,6 +81,9 @@ fraudsters mimic normal transactions, but each fraud type leaves a unique signat
 
 <div align="center">
 
+**All 68 Deep Learning Models**
+<img src="defender/assets/68-deep-learning-models.png" alt="All 68 Deep Learning Models" width="700"/>
+
 **Business Impact & Cost-Benefit Analysis**
 <img src="defender/assets/business-impact.png" alt="Business Impact Dashboard" width="700"/>
 <br><br>
