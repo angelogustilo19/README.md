@@ -80,11 +80,38 @@ fraudsters mimic normal transactions, but each fraud type leaves a unique signat
 <summary><b>SEE IT IN ACTION</b></summary>
 
 <div align="center">
+
+**Business Impact & Cost-Benefit Analysis**
 <img src="defender/assets/business-impact.png" alt="Business Impact Dashboard" width="700"/>
 <br><br>
+<img src="defender/assets/threshold-business-impact.png" alt="Threshold Optimization" width="700"/>
+
+**Fraud Pattern Analysis**
+<img src="defender/assets/fraud-sequence-timeline.png" alt="Fraud Sequence Timeline" width="700"/>
+<br><br>
+<img src="defender/assets/timegap-analysis.png" alt="Time Gap Analysis" width="700"/>
+
+**Customer Fraud Profiling**
 <img src="defender/assets/customer-fraud-types.png" alt="Customer Fraud Types" width="700"/>
 <br><br>
+<img src="defender/assets/customer-fraud-individual.png" alt="Individual Customer Fraud" width="700"/>
+<br><br>
+<img src="defender/assets/customer-pattern-trigger.png" alt="Customer Pattern Triggers" width="700"/>
+<br><br>
+<img src="defender/assets/key-insights-customer-fraud.png" alt="Key Insights" width="700"/>
+
+**Heatmaps & Coordinated Fraud**
+<img src="defender/assets/heatmap-1.png" alt="Fraud Heatmap 1" width="700"/>
+<br><br>
+<img src="defender/assets/heatmap-2.png" alt="Fraud Heatmap 2" width="700"/>
+<br><br>
+<img src="defender/assets/coordinated-fraud.png" alt="Coordinated Fraud Detection" width="700"/>
+
+**Production Deployment**
 <img src="defender/assets/vm-production-running.png" alt="Production VM Running on GCP" width="700"/>
+<br><br>
+<img src="defender/assets/vm-startup-notification.png" alt="Automated Startup Notification" width="500"/>
+
 </div>
 
 </details>
