@@ -500,9 +500,21 @@ GET  /reviews/pending                - Transactions needing review
 - **Deployments**: dashboard, api, mysql
 - **Services**: dashboard (NodePort:30501), api (ClusterIP:8000), mysql (ClusterIP:3306)
 
-### Access
+### It's Actually Running
 
-The VM uses an ephemeral IP that changes on restart. A startup script automatically emails the current IP and dashboard URL on VM boot.
+Not a demo. Not localhost. Real GCP VM with 6 Docker containers, health checks, and live endpoints.
+
+<div align="center">
+<img src="assets/vm-production-running.png" alt="Production VM Running" width="700"/>
+</div>
+
+### Automated Startup Notifications
+
+VM boots? I get an email. Dashboard URL included. Zero manual checking.
+
+<div align="center">
+<img src="assets/vm-startup-notification.png" alt="Automated VM Startup Email" width="500"/>
+</div>
 
 ---
 
