@@ -62,6 +62,51 @@ The project integrates competencies in business intelligence, systems analysis a
 
 **Binary fraud detection achieves only 2.9% detection rate.** By reframing the problem as multi-class classification (12 classes: Normal + 11 fraud types), I achieved **86-100% detection rates** per fraud type - a **32x improvement**.
 
+<details>
+<summary><b>VIEW DASHBOARD SCREENSHOTS</b></summary>
+
+<br>
+
+### Business Impact & Cost-Benefit Analysis
+
+<div align="center">
+<img src="assets/business-impact.png" alt="Business Impact Dashboard" width="700"/>
+<br><br>
+<img src="assets/threshold-business-impact.png" alt="Threshold Optimization" width="700"/>
+</div>
+
+### Fraud Pattern Analysis
+
+<div align="center">
+<img src="assets/fraud-sequence-timeline.png" alt="Fraud Sequence Timeline" width="700"/>
+<br><br>
+<img src="assets/timegap-analysis.png" alt="Time Gap Analysis" width="700"/>
+</div>
+
+### Customer Fraud Profiling
+
+<div align="center">
+<img src="assets/customer-fraud-types.png" alt="Customer Fraud Types" width="700"/>
+<br><br>
+<img src="assets/customer-fraud-individual.png" alt="Individual Customer Fraud Profile" width="700"/>
+<br><br>
+<img src="assets/customer-pattern-trigger.png" alt="Customer Pattern Triggers" width="700"/>
+<br><br>
+<img src="assets/key-insights-customer-fraud.png" alt="Key Insights - Customer Fraud" width="700"/>
+</div>
+
+### Heatmaps & Coordinated Fraud Detection
+
+<div align="center">
+<img src="assets/heatmap-1.png" alt="Fraud Heatmap 1" width="700"/>
+<br><br>
+<img src="assets/heatmap-2.png" alt="Fraud Heatmap 2" width="700"/>
+<br><br>
+<img src="assets/coordinated-fraud.png" alt="Coordinated Fraud Detection" width="700"/>
+</div>
+
+</details>
+
 ---
 
 ## The Problem
