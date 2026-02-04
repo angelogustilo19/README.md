@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a1a1a,100:2E8B57&height=180&section=header&text=ANGELO%20GUSTILO&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=FULL-STACK%20AI%20SYSTEMS%20ENGINEER&descSize=18&descAlignY=70"/>
+<img width="100%" src="assets/header.svg" alt="Angelo Gustilo - Full-Stack AI Systems Engineer"/>
 
 <div align="center">
 
