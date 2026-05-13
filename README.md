@@ -77,7 +77,16 @@ Data in. Business insights out. AI that doesn't just predict - it **drives decis
 A comprehensive deep learning platform that reframes fraud detection from binary classification to multi-class analysis - because
 fraudsters mimic normal transactions, but each fraud type leaves a unique signature.
 
-> *"Catches 11 types of banking fraud. Hopefully the reviewers don't find a 12th: 'obviously overfitted.'"* — **IEEE CIFEr 2026 (Tokyo)**
+<details>
+<summary><b>IEEE CIFEr 2026 — Tokyo</b></summary>
+
+<br>
+
+Paper submitted to the IEEE Conference on Computational Intelligence in Financial Engineering and Economics. 11 fraud typologies. 93.3% detection rate.
+
+[![PDF](https://img.shields.io/badge/VIEW_PAPER-00629B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./defender/assets/IEEE_CIFEr_2026_Submission.pdf)
+
+</details>
 
 <details>
 <summary><b>SEE IT IN ACTION</b></summary>
