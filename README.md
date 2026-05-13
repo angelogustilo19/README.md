@@ -8,11 +8,20 @@
 
 ![MS](https://img.shields.io/badge/M.S._Information_Systems_Management-Stanton_University-2E8B57?style=flat-square)
 
-**Full-Stack AI Systems Engineer**
+**Full-Stack AI Systems Engineer** • **Production AI. Cloud Native. Shipped.** • **Available. Deployed. Proven.**
 
-**Production AI. Cloud Native. Shipped.**
+</div>
 
-**Available. Deployed. Proven.**
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelogustilo19&show_icons=true&theme=vue-dark&hide_border=true&bg_color=00000000)](https://github.com/angelogustilo19)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angelogustilo19&theme=vue-dark&hide_border=true&bg_color=00000000)](https://github.com/angelogustilo19)
+
+</div>
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelogustilo19&layout=compact&theme=vue-dark&hide_border=true&bg_color=00000000)](https://github.com/angelogustilo19)
 
 </div>
 
@@ -32,27 +41,9 @@ Data in. Business insights out. AI that doesn't just predict - it **drives decis
 
 <div align="center">
 
-**CLOUD & INFRA**
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**BACKEND & AI**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.5-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-**FRONTEND & DATA**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,kubernetes,docker,fastapi,python,tensorflow,kafka,react,mysql,tailwind&perline=13" alt="Tech Stack"/>
+</a>
 
 </div>
 
