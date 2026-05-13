@@ -8,7 +8,11 @@
 
 ![MS](https://img.shields.io/badge/M.S._Information_Systems_Management-Stanton_University-2E8B57?style=flat-square)
 
-**SEEKING:** ML Engineer | Data Scientist | Full-Stack AI Developer | Cloud Engineer
+**Full-Stack AI Systems Engineer**
+
+**Production AI. Cloud Native. Shipped.**
+
+**Available. Deployed. Proven.**
 
 </div>
 
