@@ -24,6 +24,16 @@ The project integrates competencies in business intelligence, systems analysis a
 
 ---
 
+### IEEE CIFEr 2026 Submission
+
+This work has been submitted to the **2026 IEEE Conference on Computational Intelligence in Financial Engineering and Economics (CIFEr)** in Tokyo, Japan.
+
+> *"My Defender framework catches 11 types of banking fraud. Hopefully the reviewers don't find a 12th: 'obviously overfitted.'"*
+
+[![IEEE](https://img.shields.io/badge/IEEE_CIFEr_2026-Submitted-00629B?style=for-the-badge)](assets/IEEE_CIFEr_2026_Submission.pdf)
+
+---
+
 ## Table of Contents
 
 1. [Executive Summary](#executive-summary)

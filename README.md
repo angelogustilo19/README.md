@@ -373,6 +373,7 @@ A comprehensive financial analysis project combining technical indicators, risk 
 
 ## CURRENTLY
 
+- **IEEE CIFEr 2026** submission pending. My Defender framework catches 11 types of banking fraud. Hopefully the reviewers don't find a 12th: "obviously overfitted."
 - **Open to work** - yes, this is my way of saying *please hire me*
 - Mass applying to jobs like my Kafka producer pushes messages - high throughput, hoping for at least one successful delivery
 - Still obsessing over the gap between "it works on my machine" and "it works in production"
