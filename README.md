@@ -72,9 +72,12 @@ Data in. Business insights out. AI that doesn't just predict - it **drives decis
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Production](https://img.shields.io/badge/PRODUCTION-2E8B57?style=for-the-badge&logoColor=white)
+![IEEE](https://img.shields.io/badge/IEEE_CIFEr_2026-Submitted-00629B?style=for-the-badge)
 
 A comprehensive deep learning platform that reframes fraud detection from binary classification to multi-class analysis - because
 fraudsters mimic normal transactions, but each fraud type leaves a unique signature.
+
+> *"Catches 11 types of banking fraud. Hopefully the reviewers don't find a 12th: 'obviously overfitted.'"* — **IEEE CIFEr 2026 (Tokyo)**
 
 <details>
 <summary><b>SEE IT IN ACTION</b></summary>
@@ -373,7 +376,6 @@ A comprehensive financial analysis project combining technical indicators, risk 
 
 ## CURRENTLY
 
-- **IEEE CIFEr 2026** submission pending. My Defender framework catches 11 types of banking fraud. Hopefully the reviewers don't find a 12th: "obviously overfitted."
 - **Open to work** - yes, this is my way of saying *please hire me*
 - Mass applying to jobs like my Kafka producer pushes messages - high throughput, hoping for at least one successful delivery
 - Still obsessing over the gap between "it works on my machine" and "it works in production"
