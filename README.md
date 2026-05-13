@@ -78,17 +78,6 @@ A comprehensive deep learning platform that reframes fraud detection from binary
 fraudsters mimic normal transactions, but each fraud type leaves a unique signature.
 
 <details>
-<summary><b>IEEE CIFEr 2026 — Tokyo</b></summary>
-
-<br>
-
-Paper submitted to the IEEE Conference on Computational Intelligence in Financial Engineering and Economics. 11 fraud typologies. 93.3% detection rate.
-
-[![PDF](https://img.shields.io/badge/VIEW_PAPER-00629B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./defender/assets/IEEE_CIFEr_2026_Submission.pdf)
-
-</details>
-
-<details>
 <summary><b>SEE IT IN ACTION</b></summary>
 
 <div align="center">
@@ -175,6 +164,17 @@ that binary approaches miss completely.
 - 32x improvement in fraud detection
 
 **STACK:** PyTorch | FastAPI | Streamlit | MySQL | Kubernetes | GCP | Plotly
+
+</details>
+
+<details>
+<summary><b>IEEE CIFEr 2026 — Tokyo</b></summary>
+
+<br>
+
+Paper submitted to the IEEE Conference on Computational Intelligence in Financial Engineering and Economics. 11 fraud typologies. 93.3% detection rate.
+
+[![PDF](https://img.shields.io/badge/VIEW_PAPER-00629B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./defender/assets/IEEE_CIFEr_2026_Submission.pdf)
 
 </details>
 
@@ -385,6 +385,7 @@ A comprehensive financial analysis project combining technical indicators, risk 
 
 ## CURRENTLY
 
+- **IEEE CIFEr 2026** submission pending. My Defender framework catches 11 types of banking fraud. Hopefully the reviewers don't find a 12th: "obviously overfitted."
 - **Open to work** - yes, this is my way of saying *please hire me*
 - Mass applying to jobs like my Kafka producer pushes messages - high throughput, hoping for at least one successful delivery
 - Still obsessing over the gap between "it works on my machine" and "it works in production"
