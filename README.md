@@ -12,19 +12,6 @@
 
 </div>
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelogustilo19&show_icons=true&theme=vue-dark&hide_border=true&bg_color=00000000)](https://github.com/angelogustilo19)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angelogustilo19&theme=vue-dark&hide_border=true&bg_color=00000000)](https://github.com/angelogustilo19)
-
-</div>
-
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelogustilo19&layout=compact&theme=vue-dark&hide_border=true&bg_color=00000000)](https://github.com/angelogustilo19)
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## THE SHORT VERSION
