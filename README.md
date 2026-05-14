@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&weight=700&size=28&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&random=false&width=600&lines=FULL-STACK+AI+SYSTEMS+ENGINEER;BUILDING+CLOUD-NATIVE+INTELLIGENCE;TURNING+IDEAS+INTO+DEPLOYED+REALITY)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&weight=700&size=28&duration=3000&pause=1000&color=16A085&center=true&vCenter=true&random=false&width=600&lines=FULL-STACK+AI+SYSTEMS+ENGINEER;BUILDING+CLOUD-NATIVE+INTELLIGENCE;TURNING+IDEAS+INTO+DEPLOYED+REALITY)](https://git.io/typing-svg)
 
 **I don't just build AI systems. I ship them.**
 
-![MS](https://img.shields.io/badge/M.S._Information_Systems_Management-Stanton_University-2E8B57?style=flat-square)
+![MS](https://img.shields.io/badge/M.S._Information_Systems_Management-Stanton_University-16A085?style=flat-square)
 
 **Full-Stack AI Systems Engineer** • **Production AI. Cloud Native. Shipped.** • **Available. Deployed. Proven.**
 
@@ -53,7 +53,7 @@ Data in. Business insights out. AI that doesn't just predict - it **drives decis
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Production](https://img.shields.io/badge/PRODUCTION-2E8B57?style=for-the-badge&logoColor=white)
+![Production](https://img.shields.io/badge/PRODUCTION-16A085?style=for-the-badge&logoColor=white)
 ![IEEE](https://img.shields.io/badge/IEEE_CIFEr_2026-Submitted-00629B?style=for-the-badge)
 
 A comprehensive deep learning platform that reframes fraud detection from binary classification to multi-class analysis - because
@@ -162,7 +162,7 @@ Paper submitted to the IEEE Conference on Computational Intelligence in Financia
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-2E8B57?style=for-the-badge&logo=github&logoColor=white)](./defender)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-16A085?style=for-the-badge&logo=github&logoColor=white)](./defender)
 
 </div>
 
@@ -176,7 +176,7 @@ Paper submitted to the IEEE Conference on Computational Intelligence in Financia
 ![RAG](https://img.shields.io/badge/RAG-8E75B2?style=for-the-badge&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/FULL_STACK-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Production](https://img.shields.io/badge/PRODUCTION-2E8B57?style=for-the-badge&logoColor=white)
+![Production](https://img.shields.io/badge/PRODUCTION-16A085?style=for-the-badge&logoColor=white)
 
 A hybrid AI system built for cloud computing guidance and banking expertise, handling everything from GCP infrastructure questions to financial analysis with precision.
 
@@ -215,7 +215,7 @@ A hybrid AI system built for cloud computing guidance and banking expertise, han
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-2E8B57?style=for-the-badge&logo=github&logoColor=white)](./momentum-ai)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-16A085?style=for-the-badge&logo=github&logoColor=white)](./momentum-ai)
 
 </div>
 
@@ -227,7 +227,7 @@ A hybrid AI system built for cloud computing guidance and banking expertise, han
 
 ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Production](https://img.shields.io/badge/PRODUCTION-2E8B57?style=for-the-badge&logoColor=white)
+![Production](https://img.shields.io/badge/PRODUCTION-16A085?style=for-the-badge&logoColor=white)
 
 Re-architected from prototype to fully containerized platform handling concurrent multi-user workloads.
 
@@ -315,7 +315,7 @@ End-to-end ML pipeline combining TensorFlow regression with Apache Kafka for liv
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-2E8B57?style=for-the-badge&logo=github&logoColor=white)](./sales-prediction)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-16A085?style=for-the-badge&logo=github&logoColor=white)](./sales-prediction)
 
 </div>
 
@@ -327,7 +327,7 @@ End-to-end ML pipeline combining TensorFlow regression with Apache Kafka for liv
 
 ![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Finance](https://img.shields.io/badge/FINANCE-2E8B57?style=for-the-badge&logoColor=white)
+![Finance](https://img.shields.io/badge/FINANCE-16A085?style=for-the-badge&logoColor=white)
 
 A comprehensive financial analysis project combining technical indicators, risk metrics, Monte Carlo simulation, and deep learning to analyze and predict Apple stock behavior using five years of historical data.
 
@@ -359,7 +359,7 @@ A comprehensive financial analysis project combining technical indicators, risk 
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-2E8B57?style=for-the-badge&logo=github&logoColor=white)](./aapl-stock-analysis)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-16A085?style=for-the-badge&logo=github&logoColor=white)](./aapl-stock-analysis)
 
 </div>
 
@@ -382,7 +382,7 @@ I'm always down to talk about cloud architecture, AI systems that actually ship,
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelogustilo)
-[![Email](https://img.shields.io/badge/Email-2E8B57?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelogustilo19@gmail.com)
+[![Email](https://img.shields.io/badge/Email-16A085?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelogustilo19@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelogustilo19)
 
 </div>
@@ -394,3 +394,4 @@ I'm always down to talk about cloud architecture, AI systems that actually ship,
 **"The best code is code that's running somewhere, doing something, for someone."**
 
 </div>
+
