@@ -1,14 +1,12 @@
-﻿<div align="center">
+﻿<img width="100%" src="assets/header.svg" alt="Angelo Gustilo - Full-Stack AI Systems Engineer"/>
 
-# Angelo Gustilo
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&weight=700&size=28&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&random=false&width=600&lines=FULL-STACK+AI+SYSTEMS+ENGINEER;BUILDING+CLOUD-NATIVE+INTELLIGENCE;TURNING+IDEAS+INTO+DEPLOYED+REALITY)](https://git.io/typing-svg)
 
 **I don't just build AI systems. I ship them.**
 
 ![MS](https://img.shields.io/badge/M.S._Information_Systems_Management-Stanton_University-2E8B57?style=flat-square)
-
-**SEEKING:** ML Engineer | Data Scientist | Full-Stack AI Developer | Cloud Engineer
 
 </div>
 
