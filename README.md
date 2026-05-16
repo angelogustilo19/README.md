@@ -180,9 +180,7 @@ A hybrid AI system built for cloud computing guidance and banking expertise, han
 <summary><b>SEE IT IN ACTION</b></summary>
 
 <div align="center">
-<img src="assets/momentum-login.png" alt="Momentum AI Login" width="700"/>
-<br><br>
-<img src="assets/momentum-chat.png" alt="Momentum AI Chat Interface" width="700"/>
+<img src="assets/momentum-login.png" alt="Momentum AI Login" width="500"/>
 <br><br>
 
 ![Momentum AI Demo](assets/chatbot-demo.gif)
