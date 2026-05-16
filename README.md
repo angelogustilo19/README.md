@@ -1,6 +1,4 @@
-﻿<img width="100%" src="assets/header.svg" alt="Angelo Gustilo - Full-Stack AI Systems Engineer"/>
-
-<div align="center">
+﻿<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&weight=700&size=28&duration=3000&pause=1000&color=16A085&center=true&vCenter=true&random=false&width=600&lines=FULL-STACK+AI+SYSTEMS+ENGINEER;BUILDING+CLOUD-NATIVE+INTELLIGENCE;TURNING+IDEAS+INTO+DEPLOYED+REALITY)](https://git.io/typing-svg)
 
@@ -8,7 +6,7 @@
 
 ![MS](https://img.shields.io/badge/M.S._Information_Systems_Management-Stanton_University-16A085?style=flat-square)
 
-**Full-Stack AI Systems Engineer** • **Production AI. Cloud Native. Shipped.** • **Available. Deployed. Proven.**
+**Full-Stack AI Systems Engineer** • **Production AI. Cloud Native. Shipped.** • [![LinkedIn](https://img.shields.io/badge/LinkedIn-angelogustilo-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/angelogustilo) [![Email](https://img.shields.io/badge/Email-angelogustilo19@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:angelogustilo19@gmail.com)
 
 </div>
 
