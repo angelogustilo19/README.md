@@ -1,486 +1,397 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Angelo Gustilo — Full-Stack AI Systems Engineer</title>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet"/>
-<style>
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+﻿<img width="100%" src="assets/header.svg" alt="Angelo Gustilo - Full-Stack AI Systems Engineer"/>
 
-  :root {
-    --bg: #111111;
-    --surface: #1a1a1a;
-    --surface2: #222222;
-    --border: #2e2e2e;
-    --border2: #3a3a3a;
-    --teal: #16A085;
-    --teal-dim: #0d3d2e;
-    --teal-text: #4ecda4;
-    --white: #f0f0f0;
-    --muted: #888888;
-    --muted2: #555555;
-    --text: #cccccc;
-  }
+<div align="center">
 
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: 'Inter', sans-serif;
-    font-size: 15px;
-    line-height: 1.6;
-    padding: 2rem 1rem;
-  }
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&weight=700&size=28&duration=3000&pause=1000&color=16A085&center=true&vCenter=true&random=false&width=600&lines=FULL-STACK+AI+SYSTEMS+ENGINEER;BUILDING+CLOUD-NATIVE+INTELLIGENCE;TURNING+IDEAS+INTO+DEPLOYED+REALITY)](https://git.io/typing-svg)
 
-  .page { max-width: 860px; margin: 0 auto; display: flex; flex-direction: column; gap: 1.25rem; }
+**I don't just build AI systems. I ship them.**
 
-  /* CARD */
-  .card {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 14px;
-    padding: 1.75rem 2rem;
-  }
-  .card-sm { padding: 1.25rem 1.5rem; }
+![MS](https://img.shields.io/badge/M.S._Information_Systems_Management-Stanton_University-16A085?style=flat-square)
 
-  /* DIVIDER */
-  hr { border: none; border-top: 1px solid var(--border); margin: 1.25rem 0; }
-
-  /* HEADER CARD */
-  .header-name {
-    font-family: 'Space Grotesk', sans-serif;
-    font-size: 2.2rem;
-    font-weight: 700;
-    color: var(--white);
-    letter-spacing: -0.5px;
-    margin: 0.5rem 0 0.25rem;
-  }
-  .header-sub { font-size: 14px; color: var(--muted); margin-bottom: 1.25rem; }
-
-  /* AVAIL PILL */
-  .avail-pill {
-    display: inline-flex; align-items: center; gap: 7px;
-    background: var(--teal-dim); border: 1px solid var(--teal);
-    border-radius: 999px; padding: 4px 14px;
-    font-size: 12.5px; font-weight: 500; color: var(--teal-text);
-    margin-bottom: 0.85rem;
-  }
-  .avail-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--teal); }
-
-  /* PILLS ROW */
-  .pills { display: flex; flex-wrap: wrap; gap: 8px; }
-  .pill {
-    display: inline-flex; align-items: center; gap: 6px;
-    background: var(--surface2); border: 1px solid var(--border2);
-    border-radius: 999px; padding: 5px 14px;
-    font-size: 12.5px; color: var(--text);
-  }
-
-  /* CONTACT BUTTONS */
-  .contact-row { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 1.25rem; }
-  .btn {
-    display: inline-flex; align-items: center; gap: 7px;
-    padding: 8px 18px; border-radius: 8px;
-    font-size: 13px; font-weight: 500;
-    text-decoration: none; border: 1px solid var(--border2);
-    color: var(--text); background: var(--surface2);
-    transition: border-color 0.2s, color 0.2s;
-  }
-  .btn:hover { border-color: var(--teal); color: var(--teal-text); }
-  .btn-teal { background: var(--teal); border-color: var(--teal); color: #fff; }
-  .btn-teal:hover { background: #12876e; border-color: #12876e; color: #fff; }
-
-  /* SECTION LABEL */
-  .section-label {
-    font-size: 11px; font-weight: 600; letter-spacing: 0.1em;
-    color: var(--muted2); text-transform: uppercase; margin-bottom: 1rem;
-  }
-
-  /* SHORT VERSION */
-  .short-text { font-size: 15px; color: var(--muted); line-height: 1.75; }
-  .short-text strong { color: var(--white); font-weight: 500; }
-
-  /* TECH GRID */
-  .tech-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 10px; }
-  .tech-group { background: var(--surface2); border: 1px solid var(--border); border-radius: 10px; padding: 1rem; }
-  .tech-group-label { font-size: 11px; font-weight: 600; color: var(--teal); text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 0.6rem; }
-  .tech-tags { display: flex; flex-wrap: wrap; gap: 6px; }
-  .tech-tag { font-size: 12px; color: var(--muted); background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 3px 9px; }
-
-  /* PROJECT CARD */
-  .project-card { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; overflow: hidden; }
-  .project-header { padding: 1.5rem 1.75rem 1.25rem; }
-  .project-badges { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 0.85rem; }
-  .badge {
-    font-size: 11px; font-weight: 600; letter-spacing: 0.04em;
-    padding: 3px 10px; border-radius: 5px;
-  }
-  .badge-teal { background: var(--teal-dim); color: var(--teal-text); border: 1px solid var(--teal); }
-  .badge-gold { background: #2a2200; color: #f5c842; border: 1px solid #5a4800; }
-  .badge-blue { background: #0d1f35; color: #5ba3e8; border: 1px solid #1e3d5c; }
-  .badge-purple { background: #1e1430; color: #a78bda; border: 1px solid #3d2a5e; }
-  .badge-gray { background: var(--surface2); color: var(--muted); border: 1px solid var(--border2); }
-  .project-title { font-family: 'Space Grotesk', sans-serif; font-size: 1.2rem; font-weight: 600; color: var(--white); margin-bottom: 0.35rem; }
-  .project-quote { font-size: 13.5px; color: var(--teal-text); font-style: italic; margin-bottom: 0.75rem; }
-  .project-desc { font-size: 14px; color: var(--muted); line-height: 1.7; }
-
-  .project-body { border-top: 1px solid var(--border); padding: 1.25rem 1.75rem; }
-  .detail-block { margin-bottom: 1rem; }
-  .detail-label { font-size: 11px; font-weight: 600; color: var(--teal); text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 0.4rem; }
-  .detail-text { font-size: 13.5px; color: var(--muted); line-height: 1.7; }
-  .detail-text strong { color: var(--text); font-weight: 500; }
-
-  ul.detail-list { padding-left: 1.1rem; }
-  ul.detail-list li { font-size: 13.5px; color: var(--muted); line-height: 1.75; }
-  ul.detail-list li strong { color: var(--text); font-weight: 500; }
-
-  .stack-row { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 0.5rem; }
-  .stack-tag { font-size: 12px; color: var(--muted); background: var(--surface2); border: 1px solid var(--border); border-radius: 6px; padding: 3px 9px; }
-
-  .project-footer { border-top: 1px solid var(--border); padding: 1rem 1.75rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; }
-  .view-repo {
-    display: inline-flex; align-items: center; gap: 6px;
-    font-size: 13px; font-weight: 500; color: var(--teal-text);
-    text-decoration: none; border: 1px solid var(--teal); border-radius: 7px;
-    padding: 6px 14px; background: var(--teal-dim);
-    transition: background 0.2s;
-  }
-  .view-repo:hover { background: #124d38; }
-
-  /* CURRENTLY */
-  .currently-list { list-style: none; display: flex; flex-direction: column; gap: 0.6rem; }
-  .currently-list li { font-size: 14px; color: var(--muted); padding-left: 1.25rem; position: relative; line-height: 1.7; }
-  .currently-list li::before { content: '→'; position: absolute; left: 0; color: var(--teal); font-size: 13px; }
-  .currently-list li strong { color: var(--text); font-weight: 500; }
-
-  /* QUOTE */
-  .quote-block { text-align: center; font-size: 15px; font-style: italic; color: var(--muted); padding: 0.5rem 0; }
-  .quote-block span { color: var(--white); }
-
-  /* DETAILS toggle */
-  details summary { cursor: pointer; font-size: 13px; font-weight: 500; color: var(--teal-text); list-style: none; margin-bottom: 0.75rem; }
-  details summary::-webkit-details-marker { display: none; }
-  details summary::before { content: '▶  '; font-size: 10px; }
-  details[open] summary::before { content: '▼  '; }
-
-  .metric-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--border); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; margin-bottom: 1rem; }
-  .metric { background: var(--surface2); padding: 1rem 1.25rem; }
-  .metric-num { font-family: 'Space Grotesk', sans-serif; font-size: 1.6rem; font-weight: 700; color: var(--white); }
-  .metric-label { font-size: 11px; color: var(--muted); margin-top: 2px; }
-
-  /* SCREENSHOT STRIP */
-  .screenshot-strip { display: flex; gap: 10px; overflow-x: auto; padding: 0.75rem 0 0.5rem; margin-top: 0.75rem; scrollbar-width: thin; scrollbar-color: var(--border2) transparent; }
-  .screenshot-strip::-webkit-scrollbar { height: 4px; }
-  .screenshot-strip::-webkit-scrollbar-track { background: transparent; }
-  .screenshot-strip::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 2px; }
-  .screenshot-strip img { height: 180px; width: auto; border-radius: 8px; border: 1px solid var(--border2); flex-shrink: 0; object-fit: cover; }
-</style>
-</head>
-<body>
-<div class="page">
-
-  <!-- HEADER -->
-  <div class="card">
-    <div class="avail-pill"><span class="avail-dot"></span> Available now</div>
-    <div class="header-name">Angelo Gustilo</div>
-    <div class="header-sub">Full-stack AI systems engineer &nbsp;·&nbsp; Production AI. Cloud native. Shipped. &nbsp;·&nbsp; M.S. Information Systems Management, Stanton University</div>
-    <div class="pills">
-      <span class="pill">🧠 AI / ML</span>
-      <span class="pill">☁️ GCP / Kubernetes</span>
-      <span class="pill">⚡ Full-stack</span>
-      <span class="pill">🏦 Fintech / Banking</span>
-      <span class="pill">📡 Real-time streaming</span>
-    </div>
-    <div class="contact-row">
-      <a href="https://www.linkedin.com/in/angelogustilo" class="btn btn-teal">LinkedIn</a>
-      <a href="mailto:angelogustilo19@gmail.com" class="btn">✉ Email</a>
-      <a href="https://github.com/angelogustilo19" class="btn">⌥ GitHub</a>
-    </div>
-    <div style="margin-top:1rem;">👉 <strong><a href="https://angelogustilo19.github.io" style="color:var(--teal-text);">View full portfolio →</a></strong></div>
-  </div>
-
-  <!-- SHORT VERSION -->
-  <div class="card">
-    <div class="section-label">The short version</div>
-    <p class="short-text">
-      I architect and deploy production AI systems on cloud infrastructure. Not demos. Not notebooks.
-      <strong>Real systems</strong> with auth, persistence, orchestration, and users hitting them concurrently.<br><br>
-      My sweet spot? Taking an idea from "wouldn't it be cool if..." to a containerized, Kubernetes-orchestrated reality
-      running on GCP — often at zero infrastructure cost.<br><br>
-      Data in. Business insights out. AI that doesn't just predict — it <strong>drives decisions and revenue.</strong>
-    </p>
-  </div>
-
-  <!-- TECH -->
-  <div class="card">
-    <div class="section-label">Tech I ship with</div>
-    <div class="tech-grid">
-      <div class="tech-group">
-        <div class="tech-group-label">☁ Cloud & Infra</div>
-        <div class="tech-tags">
-          <span class="tech-tag">GCP</span><span class="tech-tag">AWS</span><span class="tech-tag">Azure</span>
-          <span class="tech-tag">Kubernetes</span><span class="tech-tag">Docker</span>
-        </div>
-      </div>
-      <div class="tech-group">
-        <div class="tech-group-label">🧠 AI & ML</div>
-        <div class="tech-tags">
-          <span class="tech-tag">PyTorch</span><span class="tech-tag">TensorFlow</span>
-          <span class="tech-tag">RAG</span><span class="tech-tag">FAISS</span>
-        </div>
-      </div>
-      <div class="tech-group">
-        <div class="tech-group-label">⚙ Backend & Data</div>
-        <div class="tech-tags">
-          <span class="tech-tag">FastAPI</span><span class="tech-tag">Python</span>
-          <span class="tech-tag">Kafka</span><span class="tech-tag">MySQL</span>
-        </div>
-      </div>
-      <div class="tech-group">
-        <div class="tech-group-label">🎨 Frontend</div>
-        <div class="tech-tags">
-          <span class="tech-tag">React</span><span class="tech-tag">Tailwind</span>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- PROJECTS LABEL -->
-  <div style="padding: 0.25rem 0.5rem;">
-    <div class="section-label">What I've built</div>
-  </div>
-
-  <!-- PROJECT 1: DEFENDER -->
-  <div class="project-card">
-    <div class="project-header">
-      <div class="project-badges">
-        <span class="badge badge-gold">★ Featured</span>
-        <span class="badge badge-teal">Production</span>
-        <span class="badge badge-blue">IEEE CIFEr 2026</span>
-        <span class="badge badge-gray">PyTorch</span>
-        <span class="badge badge-gray">Kubernetes</span>
-        <span class="badge badge-gray">GCP</span>
-      </div>
-      <div class="project-title">DEFENDER — AI-Powered Banking Fraud Prevention</div>
-      <div class="project-quote">From 2.9% to 86–100% detection rate. That's a 32× improvement.</div>
-      <p class="project-desc">A comprehensive deep learning platform that reframes fraud detection from binary classification to multi-class analysis — because fraudsters mimic normal transactions, but each fraud type leaves a unique signature.</p>
-    </div>
-    <div class="project-body">
-      <div class="metric-row">
-        <div class="metric"><div class="metric-num">32×</div><div class="metric-label">detection lift</div></div>
-        <div class="metric"><div class="metric-num">68</div><div class="metric-label">models trained</div></div>
-        <div class="metric"><div class="metric-num">11</div><div class="metric-label">fraud typologies</div></div>
-      </div>
-      <details>
-        <summary>Under the hood</summary>
-        <div class="detail-block">
-          <div class="detail-label">The breakthrough</div>
-          <p class="detail-text">Stop asking "is this fraud?" Start asking "what <strong>type</strong> of fraud is this?" Multi-class classification exposes patterns that binary approaches miss completely.</p>
-        </div>
-        <div class="detail-block">
-          <div class="detail-label">Scale</div>
-          <ul class="detail-list">
-            <li>40,000 banking transactions across 4 channels (ATM, POS, Digital, Branch)</li>
-            <li>68 deep learning models across 17 analysis categories</li>
-            <li>Star schema data warehouse with 87 tables</li>
-            <li>Full GCP Kubernetes deployment — under $25/month</li>
-          </ul>
-        </div>
-        <div class="detail-block">
-          <div class="detail-label">Stack</div>
-          <div class="stack-row">
-            <span class="stack-tag">PyTorch</span><span class="stack-tag">FastAPI</span><span class="stack-tag">Streamlit</span>
-            <span class="stack-tag">MySQL</span><span class="stack-tag">Kubernetes</span><span class="stack-tag">GCP</span><span class="stack-tag">Plotly</span>
-          </div>
-        </div>
-        <div class="detail-label">Screenshots</div>
-        <div class="screenshot-strip">
-          <img src="./defender/assets/business-impact.png" alt="Business impact dashboard"/>
-          <img src="./defender/assets/68-deep-learning-models.png" alt="68 deep learning models"/>
-          <img src="./defender/assets/heatmap-1.png" alt="Customer fraud heatmap"/>
-        </div>
-      </details>
-    </div>
-    <div class="project-footer">
-      <a href="./defender" class="view-repo">View repo →</a>
-      <a href="./defender/assets/IEEE_CIFEr_2026_Submission.pdf" class="view-repo">View IEEE paper →</a>
-    </div>
-  </div>
-
-  <!-- PROJECT 2: MOMENTUM AI -->
-  <div class="project-card">
-    <div class="project-header">
-      <div class="project-badges">
-        <span class="badge badge-gold">★ Featured</span>
-        <span class="badge badge-teal">Production</span>
-        <span class="badge badge-purple">RAG</span>
-        <span class="badge badge-gray">React</span>
-        <span class="badge badge-gray">GCP</span>
-      </div>
-      <div class="project-title">MOMENTUM AI — Cloud Computing & Banking Expert</div>
-      <div class="project-quote">Enterprise-grade AI that speaks cloud architecture and banking — deployed in production.</div>
-      <p class="project-desc">A hybrid AI system built for cloud computing guidance and banking expertise, handling everything from GCP infrastructure questions to financial analysis with precision.</p>
-    </div>
-    <div class="project-body">
-      <details>
-        <summary>Under the hood</summary>
-        <div class="detail-block">
-          <div class="detail-label">Key engineering</div>
-          <ul class="detail-list">
-            <li>Multi-tier LLM fallback: Gemini 2.5 Flash → GPT-3.5 → Ollama (never fails silently)</li>
-            <li>FAISS vector search for retrieval-augmented responses</li>
-            <li>Per-user auth, chat history, and session persistence</li>
-            <li>Command palette with keyboard shortcuts (Cmd/Ctrl+K)</li>
-            <li>Full CI/CD via GitHub Actions → Docker → K3s on GCP</li>
-          </ul>
-        </div>
-        <div class="detail-block">
-          <div class="detail-label">Stack</div>
-          <div class="stack-row">
-            <span class="stack-tag">FastAPI</span><span class="stack-tag">React 18</span><span class="stack-tag">Material-UI</span>
-            <span class="stack-tag">MySQL</span><span class="stack-tag">Kubernetes</span><span class="stack-tag">Traefik</span><span class="stack-tag">GCP</span>
-          </div>
-        </div>
-        <div class="detail-label" style="margin-top:0.75rem;">Screenshots</div>
-        <div class="screenshot-strip">
-          <img src="./assets/momentum-login.png" alt="Momentum AI login"/>
-          <img src="./assets/k8s-deployment.png" alt="Kubernetes deployment"/>
-        </div>
-      </details>
-    </div>
-    <div class="project-footer">
-      <a href="./momentum-ai" class="view-repo">View repo →</a>
-    </div>
-  </div>
-
-  <!-- PROJECT 3: RAG PLATFORM -->
-  <div class="project-card">
-    <div class="project-header">
-      <div class="project-badges">
-        <span class="badge badge-teal">Production</span>
-        <span class="badge badge-gray">Kubernetes</span>
-        <span class="badge badge-gray">GCP</span>
-      </div>
-      <div class="project-title">Cloud-Native RAG Platform</div>
-      <div class="project-quote">Production-grade retrieval-augmented generation. Not a Jupyter notebook — an actual deployed system.</div>
-      <p class="project-desc">Re-architected from prototype to fully containerized platform handling concurrent multi-user workloads.</p>
-    </div>
-    <div class="project-body">
-      <details>
-        <summary>Under the hood</summary>
-        <div class="detail-block">
-          <div class="detail-label">What I built</div>
-          <ul class="detail-list">
-            <li>FastAPI backend with authenticated REST endpoints for conversational AI</li>
-            <li>Gemini 2.5 Flash integration with structured reasoning pipelines</li>
-            <li>React frontend deployed as K8s-managed service</li>
-            <li>MySQL with persistent volumes — data survives pod restarts</li>
-            <li>Traefik ingress exposing the whole thing securely to the internet</li>
-          </ul>
-        </div>
-        <div class="detail-label" style="margin-top:0.75rem;">Result</div>
-        <p class="detail-text" style="margin-top:0.4rem;">Multi-user deployment validated live. <strong>Zero crashes. Zero data loss.</strong></p>
-      </details>
-    </div>
-  </div>
-
-  <!-- PROJECT 4: KAFKA -->
-  <div class="project-card">
-    <div class="project-header">
-      <div class="project-badges">
-        <span class="badge badge-gray">TensorFlow</span>
-        <span class="badge badge-gray">Kafka</span>
-        <span class="badge badge-blue">Real-time</span>
-      </div>
-      <div class="project-title">Sales Prediction with Real-Time Kafka Streaming</div>
-      <div class="project-quote">Predict sales. Stream predictions. Monitor in real-time.</div>
-      <p class="project-desc">End-to-end ML pipeline combining TensorFlow regression with Apache Kafka for live prediction streaming and monitoring.</p>
-    </div>
-    <div class="project-body">
-      <details>
-        <summary>Under the hood</summary>
-        <ul class="detail-list">
-          <li>EDA on 500 customer transaction records — seasonality, marketing ROI, churn demographics</li>
-          <li>TensorFlow neural network (2 hidden layers) capturing non-linear relationships</li>
-          <li>Kafka streams 81 prediction records to <code style="font-size:12px;color:var(--teal-text)">sales_predictions</code> topic</li>
-          <li>Kafdrop web UI for real-time prediction visualization</li>
-        </ul>
-        <div class="stack-row" style="margin-top:0.75rem;">
-          <span class="stack-tag">TensorFlow</span><span class="stack-tag">Pandas</span>
-          <span class="stack-tag">Kafka</span><span class="stack-tag">Kafdrop</span><span class="stack-tag">Docker</span>
-        </div>
-        <div class="detail-label" style="margin-top:0.75rem;">Screenshots</div>
-        <div class="screenshot-strip">
-          <img src="./assets/kafdrop-streaming.png" alt="Kafdrop Kafka streaming"/>
-          <img src="./assets/sales-prediction-analysis.png" alt="Sales prediction analysis"/>
-        </div>
-      </details>
-    </div>
-    <div class="project-footer">
-      <a href="./sales-prediction" class="view-repo">View repo →</a>
-    </div>
-  </div>
-
-  <!-- PROJECT 5: AAPL -->
-  <div class="project-card">
-    <div class="project-header">
-      <div class="project-badges">
-        <span class="badge badge-gray">LSTM</span>
-        <span class="badge badge-gray">scikit-learn</span>
-        <span class="badge badge-teal">Origin story</span>
-      </div>
-      <div class="project-title">AAPL Stock Analysis — My First Project</div>
-      <div class="project-quote">Where it all started — predicting Apple stock with ML before I knew what Kubernetes was.</div>
-      <p class="project-desc">Comprehensive financial analysis combining technical indicators, risk metrics, Monte Carlo simulation, and deep learning across five years of historical data.</p>
-    </div>
-    <div class="project-body">
-      <details>
-        <summary>Under the hood</summary>
-        <ul class="detail-list">
-          <li>RSI, MACD, Bollinger Bands and rule-based trading signal system</li>
-          <li>Bidirectional LSTM + Random Forest ensemble comparison</li>
-          <li>Monte Carlo simulation generating 1,000 probabilistic price scenarios</li>
-          <li>Risk metrics: VaR, Sortino Ratio, maximum drawdown</li>
-        </ul>
-        <div class="stack-row" style="margin-top:0.75rem;">
-          <span class="stack-tag">Python</span><span class="stack-tag">TensorFlow/Keras</span>
-          <span class="stack-tag">scikit-learn</span><span class="stack-tag">pandas</span><span class="stack-tag">yfinance</span>
-        </div>
-      </details>
-    </div>
-    <div class="project-footer">
-      <a href="./aapl-stock-analysis" class="view-repo">View repo →</a>
-    </div>
-  </div>
-
-  <!-- CURRENTLY -->
-  <div class="card">
-    <div class="section-label">Currently</div>
-    <ul class="currently-list">
-      <li><strong>IEEE CIFEr 2026</strong> submission pending. Defender catches 11 types of banking fraud. Hopefully reviewers don't find a 12th: "obviously overfitted."</li>
-      <li><strong>Open to work</strong> — yes, this is my way of saying <em>please hire me</em></li>
-      <li>Mass applying to jobs like my Kafka producer pushes messages — high throughput, hoping for at least one successful delivery</li>
-      <li>Still obsessing over the gap between "it works on my machine" and "it works in production"</li>
-      <li>Available immediately. Will deploy AI systems for coffee. Or money. Preferably both.</li>
-    </ul>
-  </div>
-
-  <!-- CONNECT -->
-  <div class="card">
-    <div class="section-label">Let's connect</div>
-    <p class="short-text" style="margin-bottom:1.25rem;">Always down to talk cloud architecture, AI systems that actually ship, why Kubernetes is simultaneously the best and worst thing ever — or <strong>job opportunities</strong> (seriously, my inbox is ready).</p>
-    <div class="contact-row">
-      <a href="https://www.linkedin.com/in/angelogustilo" class="btn btn-teal">LinkedIn</a>
-      <a href="mailto:angelogustilo19@gmail.com" class="btn">✉ Email</a>
-      <a href="https://github.com/angelogustilo19" class="btn">⌥ GitHub</a>
-    </div>
-  </div>
-
-  <!-- QUOTE -->
-  <div class="card card-sm" style="text-align:center;">
-    <p class="quote-block"><span>"The best code is code that's running somewhere, doing something, for someone."</span></p>
-  </div>
+**Full-Stack AI Systems Engineer** • **Production AI. Cloud Native. Shipped.** • **Available. Deployed. Proven.**
 
 </div>
-</body>
-</html>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## THE SHORT VERSION
+
+I architect and deploy production AI systems on cloud infrastructure. Not demos. Not notebooks. **Real systems** with auth, persistence, orchestration, and users hitting them concurrently.
+
+My sweet spot? Taking an idea from "wouldn't it be cool if..." to a containerized, Kubernetes-orchestrated reality running on GCP - often at zero infrastructure cost.
+
+Data in. Business insights out. AI that doesn't just predict - it **drives decisions and revenue.**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## TECH I SHIP WITH
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,kubernetes,docker,fastapi,python,tensorflow,kafka,react,mysql,tailwind&perline=13" alt="Tech Stack"/>
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## WHAT I'VE BUILT
+
+<div align="center">
+
+### FEATURED PROJECT
+
+</div>
+
+### DEFENDER - AI-Powered Banking Fraud Prevention
+
+> *From 2.9% to 86-100% detection rate. That's a 32x improvement.*
+
+![Featured](https://img.shields.io/badge/FEATURED-FFD700?style=for-the-badge&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Production](https://img.shields.io/badge/PRODUCTION-16A085?style=for-the-badge&logoColor=white)
+![IEEE](https://img.shields.io/badge/IEEE_CIFEr_2026-Submitted-00629B?style=for-the-badge)
+
+A comprehensive deep learning platform that reframes fraud detection from binary classification to multi-class analysis - because
+fraudsters mimic normal transactions, but each fraud type leaves a unique signature.
+
+<details>
+<summary><b>SEE IT IN ACTION</b></summary>
+
+<div align="center">
+
+**All 68 Deep Learning Models**
+<img src="defender/assets/68-deep-learning-models.png" alt="All 68 Deep Learning Models" width="700"/>
+
+**Business Impact & Cost-Benefit Analysis**
+<img src="defender/assets/business-impact.png" alt="Business Impact Dashboard" width="700"/>
+<br><br>
+<img src="defender/assets/threshold-business-impact.png" alt="Threshold Optimization" width="700"/>
+
+**Fraud Pattern Analysis**
+<img src="defender/assets/fraud-sequence-timeline.png" alt="Fraud Sequence Timeline" width="700"/>
+<br><br>
+<img src="defender/assets/timegap-analysis.png" alt="Time Gap Analysis" width="700"/>
+
+**Customer Fraud Profiling**
+<img src="defender/assets/customer-fraud-types.png" alt="Customer Fraud Types" width="700"/>
+<br><br>
+<img src="defender/assets/customer-fraud-individual.png" alt="Individual Customer Fraud" width="700"/>
+<br><br>
+<img src="defender/assets/customer-pattern-trigger.png" alt="Customer Pattern Triggers" width="700"/>
+<br><br>
+<img src="defender/assets/key-insights-customer-fraud.png" alt="Key Insights" width="700"/>
+
+**Heatmaps & Coordinated Fraud**
+<img src="defender/assets/heatmap-1.png" alt="Fraud Heatmap 1" width="700"/>
+<br><br>
+<img src="defender/assets/heatmap-2.png" alt="Fraud Heatmap 2" width="700"/>
+<br><br>
+<img src="defender/assets/coordinated-fraud.png" alt="Coordinated Fraud Detection" width="700"/>
+
+</div>
+
+</details>
+
+<details>
+<summary><b>PRODUCTION DEPLOYMENT</b></summary>
+
+<br>
+
+Not localhost. Not a demo. **Actually running on GCP.**
+
+<div align="center">
+<img src="defender/assets/vm-production-running.png" alt="Production VM Running on GCP" width="700"/>
+</div>
+
+VM boots? I get an email with the dashboard URL. Zero manual checking.
+
+<div align="center">
+<img src="defender/assets/vm-startup-notification.png" alt="Automated Startup Notification" width="500"/>
+</div>
+
+</details>
+
+<details>
+<summary><b>SEE WHAT'S UNDER THE HOOD</b></summary>
+
+<br>
+
+**THE PROBLEM:** Traditional binary fraud detection hit a ceiling at 2.9%. Fraudsters are too good at looking normal.
+
+**THE BREAKTHROUGH:** Stop asking "is this fraud?" Start asking "what TYPE of fraud is this?" Multi-class classification exposes patterns
+that binary approaches miss completely.
+
+**SCALE:**
+- 40,000 banking transactions across 4 channels (ATM, POS, Digital, Branch)
+- 11 distinct fraud patterns identified and modeled
+- 68 deep learning models trained across 17 analysis categories
+- Star schema data warehouse with 87 tables
+
+**KEY ENGINEERING:**
+- LSTM, GRU, Transformer, and CNN-LSTM architectures for sequential pattern detection
+- Ensemble prediction combining XGBoost, Neural Network, and Isolation Forest
+- Real-time risk scoring API with cost-benefit threshold optimization (0.30 threshold, 0.4% FPR)
+- 9-page interactive Streamlit dashboard with Plotly visualizations
+- Full production deployment on GCP Kubernetes - under $25/month
+
+**RESULTS:**
+- Binary classification baseline: 2.9% detection
+- Multi-class classification: 86-100% detection per fraud type
+- Best GRU model: 0.6036 AUC for cost-benefit optimization
+- 32x improvement in fraud detection
+
+**STACK:** PyTorch | FastAPI | Streamlit | MySQL | Kubernetes | GCP | Plotly
+
+</details>
+
+<details>
+<summary><b>IEEE CIFEr 2026 — Tokyo</b></summary>
+
+<br>
+
+Paper submitted to the IEEE Conference on Computational Intelligence in Financial Engineering and Economics. 11 fraud typologies. 93.3% detection rate.
+
+[![PDF](https://img.shields.io/badge/VIEW_PAPER-00629B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./defender/assets/IEEE_CIFEr_2026_Submission.pdf)
+
+</details>
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-16A085?style=for-the-badge&logo=github&logoColor=white)](./defender)
+
+</div>
+
+---
+
+### MOMENTUM AI - Cloud Computing & Banking Expert
+
+> *Enterprise-grade AI that speaks cloud architecture and banking - deployed in production.*
+
+![Featured](https://img.shields.io/badge/FEATURED-FFD700?style=for-the-badge&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-8E75B2?style=for-the-badge&logoColor=white)
+![Full Stack](https://img.shields.io/badge/FULL_STACK-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Production](https://img.shields.io/badge/PRODUCTION-16A085?style=for-the-badge&logoColor=white)
+
+A hybrid AI system built for cloud computing guidance and banking expertise, handling everything from GCP infrastructure questions to financial analysis with precision.
+
+<details>
+<summary><b>SEE IT IN ACTION</b></summary>
+
+<div align="center">
+<img src="assets/momentum-login.png" alt="Momentum AI Login" width="500"/>
+<br><br>
+
+![Momentum AI Demo](assets/chatbot-demo.gif)
+
+</div>
+
+</details>
+
+<details>
+<summary><b>SEE WHAT'S UNDER THE HOOD</b></summary>
+
+<br>
+
+**THE PROBLEM:** Users need expert guidance on cloud architecture AND banking concepts - but most AI systems lack domain-specific depth.
+
+**THE SOLUTION:** Intent detection that routes queries to specialized engines for cloud computing (GCP, Kubernetes, infrastructure) or banking expertise (financial analysis, loan calculations) with RAG enhancement.
+
+**KEY ENGINEERING:**
+- Multi-tier LLM fallback: Gemini 2.5 Flash → GPT-3.5 → Ollama (never fails silently)
+- FAISS vector search for retrieval-augmented responses
+- Per-user auth, chat history, and session persistence
+- Command palette with keyboard shortcuts (Cmd/Ctrl+K)
+- Full CI/CD via GitHub Actions → Docker → K3s on GCP
+
+**STACK:** FastAPI | React 18 | Material-UI | MySQL | Kubernetes | Traefik | GCP
+
+</details>
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-16A085?style=for-the-badge&logo=github&logoColor=white)](./momentum-ai)
+
+</div>
+
+---
+
+### CLOUD-NATIVE RAG PLATFORM
+
+> *Production-grade retrieval-augmented generation. Not a Jupyter notebook - an actual deployed system.*
+
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Production](https://img.shields.io/badge/PRODUCTION-16A085?style=for-the-badge&logoColor=white)
+
+Re-architected from prototype to fully containerized platform handling concurrent multi-user workloads.
+
+<details>
+<summary><b>SEE IT IN ACTION</b></summary>
+
+<div align="center">
+<img src="assets/k8s-deployment.png" alt="Kubernetes Deployment on GCP" width="700"/>
+</div>
+
+</details>
+
+<details>
+<summary><b>SEE WHAT'S UNDER THE HOOD</b></summary>
+
+<br>
+
+**THE CHALLENGE:** Turn a working prototype into something that survives real users, real load, and real production conditions.
+
+**WHAT I BUILT:**
+- FastAPI backend with authenticated REST endpoints for conversational AI
+- Gemini 2.5 Flash integration with structured reasoning pipelines
+- System prompts constrained for domain-specific responses (cloud architecture, finance)
+- React frontend deployed as K8s-managed service
+- MySQL with persistent volumes - data survives pod restarts
+- Traefik ingress exposing the whole thing securely to the internet
+
+**BATTLE SCARS (PROBLEMS I SOLVED):**
+- Container image pull auth failures
+- K8s DNS and service resolution nightmares
+- Environment variable injection mismatches
+- Database connectivity edge cases under concurrent load
+
+**RESULT:** Multi-user deployment validated live. Zero crashes. Zero data loss.
+
+</details>
+
+---
+
+### SALES PREDICTION WITH REAL-TIME KAFKA STREAMING
+
+> *Predict sales. Stream predictions. Monitor in real-time.*
+
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Streaming](https://img.shields.io/badge/REAL_TIME-4285F4?style=for-the-badge&logoColor=white)
+
+End-to-end ML pipeline combining TensorFlow regression with Apache Kafka for live prediction streaming and monitoring.
+
+<details>
+<summary><b>SEE IT IN ACTION</b></summary>
+
+<div align="center">
+<img src="assets/sales-prediction-analysis.png" alt="Sales Prediction Analysis" width="700"/>
+<br><br>
+<img src="assets/kafdrop-streaming.png" alt="Kafdrop Real-Time Streaming" width="700"/>
+</div>
+
+</details>
+
+<details>
+<summary><b>SEE WHAT'S UNDER THE HOOD</b></summary>
+
+<br>
+
+**THE GOAL:** Predict aggregated sales performance and stream predictions in real-time for live monitoring.
+
+**DATA PROCESSING:**
+- EDA on 500 customer transaction records revealing seasonality patterns, marketing ROI, and churn demographics
+- Missing value imputation and outlier removal using IQR method
+- Feature engineering informed by correlation analysis
+
+**ML PIPELINE:**
+- Linear regression baseline for interpretability
+- TensorFlow neural network (2 hidden layers) capturing non-linear relationships between marketing spend, seasonality, and sales
+
+**REAL-TIME STREAMING:**
+- Kafka message broker streams 81 prediction records to `sales_predictions` topic
+- Kafdrop web UI visualizes predictions with error analysis
+- Schema includes prediction index, predicted/actual sales, and error metrics
+
+**STACK:** TensorFlow | Pandas | Apache Kafka | Kafdrop | Docker | Docker Compose
+
+</details>
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-16A085?style=for-the-badge&logo=github&logoColor=white)](./sales-prediction)
+
+</div>
+
+---
+
+### AAPL STOCK ANALYSIS - My First Project
+
+> *Where it all started - predicting Apple stock with ML before I knew what Kubernetes was.*
+
+![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Finance](https://img.shields.io/badge/FINANCE-16A085?style=for-the-badge&logoColor=white)
+
+A comprehensive financial analysis project combining technical indicators, risk metrics, Monte Carlo simulation, and deep learning to analyze and predict Apple stock behavior using five years of historical data.
+
+<details>
+<summary><b>SEE WHAT'S UNDER THE HOOD</b></summary>
+
+<br>
+
+**THE GOAL:** Build a complete stock analysis pipeline - from data collection to ML predictions - learning the fundamentals of data science and machine learning.
+
+**TECHNICAL ANALYSIS:**
+- RSI, MACD, Bollinger Bands, and moving averages for trend identification
+- Rule-based trading signal system combining momentum indicators
+- Risk metrics: Value at Risk (VaR), Sortino Ratio, maximum drawdown
+
+**ML PIPELINE:**
+- Bidirectional LSTM neural network for sequence pattern recognition
+- Random Forest ensemble model as baseline comparison
+- Monte Carlo simulation generating 1,000 probabilistic price scenarios
+
+**WHAT I LEARNED:**
+- Financial data preprocessing and feature engineering
+- The gap between backtesting accuracy and real-world performance
+- Why everyone's first ML project involves stock prediction (and why it's humbling)
+
+**STACK:** Python | TensorFlow/Keras | scikit-learn | pandas | yfinance | matplotlib
+
+</details>
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-16A085?style=for-the-badge&logo=github&logoColor=white)](./aapl-stock-analysis)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## CURRENTLY
+
+- **IEEE CIFEr 2026** submission pending. My Defender framework catches 11 types of banking fraud. Hopefully the reviewers don't find a 12th: "obviously overfitted."
+- **Open to work** - yes, this is my way of saying *please hire me*
+- Mass applying to jobs like my Kafka producer pushes messages - high throughput, hoping for at least one successful delivery
+- Still obsessing over the gap between "it works on my machine" and "it works in production"
+- Available immediately. Will deploy AI systems for coffee. Or money. Preferably both.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## LET'S CONNECT
+
+I'm always down to talk about cloud architecture, AI systems that actually ship, why Kubernetes is simultaneously the best and worst thing ever - or **job opportunities** (seriously, my inbox is ready).
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelogustilo)
+[![Email](https://img.shields.io/badge/Email-16A085?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelogustilo19@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelogustilo19)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+**"The best code is code that's running somewhere, doing something, for someone."**
+
+</div>
+
